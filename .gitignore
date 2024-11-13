@@ -1,0 +1,3 @@
+*.lock*
+terraform/.terraform/* 
+terraform/terraform.tfstate.backup
